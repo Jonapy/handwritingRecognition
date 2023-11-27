@@ -1,0 +1,29 @@
+Mean edit distance for epoch 1: 20.5030
+1206/1206 [==============================] - 517s 423ms/step - loss: 13.7777 - val_loss: 11.9542
+
+Mean edit distance for epoch 2: 20.1051
+1206/1206 [==============================] - 386s 320ms/step - loss: 10.9478 - val_loss: 9.5219
+
+Mean edit distance for epoch 3: 19.5982
+1206/1206 [==============================] - 361s 299ms/step - loss: 8.8317 - val_loss: 7.3239
+
+Mean edit distance for epoch 4: 18.6814
+1206/1206 [==============================] - 366s 304ms/step - loss: 6.9046 - val_loss: 5.3904
+
+Mean edit distance for epoch 5: 18.3019
+1206/1206 [==============================] - 373s 309ms/step - loss: 5.4977 - val_loss: 4.3772
+
+Mean edit distance for epoch 6: 18.1156
+1206/1206 [==============================] - 20417s 17s/step - loss: 4.6992 - val_loss: 3.7610
+
+Mean edit distance for epoch 7: 17.8994
+1206/1206 [==============================] - 275s 228ms/step - loss: 4.2066 - val_loss: 3.3652
+
+Mean edit distance for epoch 8: 17.8365
+1206/1206 [==============================] - 261s 216ms/step - loss: 3.8649 - val_loss: 3.1157
+
+Mean edit distance for epoch 9: 17.7755
+1206/1206 [==============================] - 275s 228ms/step - loss: 3.5721 - val_loss: 2.8963
+
+Mean edit distance for epoch 10: 17.7268
+1206/1206 [==============================] - 335s 278ms/step - loss: 3.3780 - val_loss: 2.7379
